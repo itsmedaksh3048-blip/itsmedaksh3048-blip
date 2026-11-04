@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: YOUR NAME
+name: Sonu Kumar
 role: DevOps Engineer
 focus: [DevSecOps, Cloud Security, CI/CD, Automation]
 location: YOUR CITY, India 🇮🇳
