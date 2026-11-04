@@ -23,7 +23,7 @@
 name: Sonu Kumar
 role: DevOps Engineer
 focus: [DevSecOps, Cloud Security, CI/CD, Automation]
-location: YOUR CITY, India 🇮🇳
+location: Faridabad, Haryana India 
 currently_learning: [Kubernetes Security, Terraform, Threat Modeling]
 open_to: [Collaboration, Open Source, Interesting Challenges]
 philosophy: "Ship fast. Ship secure. Automate the rest."
