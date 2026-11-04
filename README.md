@@ -80,20 +80,6 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0e75b6)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
 
 ## 🏆 Goals & Certifications
 
