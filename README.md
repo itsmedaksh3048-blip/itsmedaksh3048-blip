@@ -9,7 +9,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-01221b37b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -44,17 +44,6 @@ philosophy: "Ship fast. Ship secure. Automate the rest."
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,ansible,aws,git,github,githubactions,jenkins,nginx&theme=dark" alt="devops skills" />
 </p>
 
-### 🔐 Cyber Security
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
 ### 💻 Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,sqlite,postgres,mysql&theme=dark" alt="languages" />
@@ -73,8 +62,6 @@ philosophy: "Ship fast. Ship secure. Automate the rest."
 |---|---|---|
 | 📝 **[Django Notes App](https://github.com/YOUR_USERNAME/django-notes-app)** | A Django notes application, containerized and deployed with a CI/CD pipeline | `Python` `Django` `Docker` `CI/CD` |
 | 🌐 **[Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)** | Responsive personal portfolio with dark/light mode | `HTML` `CSS` `JavaScript` |
-| 🛡️ **[Project Name](https://github.com/YOUR_USERNAME/REPO)** | Short description of a security or DevOps project | `Tech` `Tech` |
-| ⚙️ **[Project Name](https://github.com/YOUR_USERNAME/REPO)** | Short description of an automation or IaC project | `Tech` `Tech` |
 
 ---
 
@@ -124,10 +111,7 @@ I'm open to collaborating on **DevOps automation**, **DevSecOps tooling**, and *
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/YOUR_HANDLE)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-01221b37b/)
 
 <br/>
 
